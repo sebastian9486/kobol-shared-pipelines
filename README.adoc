@@ -1,2 +1,3 @@
-# kobol-shared-pipelines
+= kobol-shared-pipelines
+
 Jenkins Pipelines and Library
