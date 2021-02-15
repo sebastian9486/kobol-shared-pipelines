@@ -1,0 +1,6 @@
+name: kobol-shared-pipelines-docs
+title: Kobol Shared Pipelines Docs
+version: master
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
